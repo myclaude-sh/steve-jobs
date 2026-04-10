@@ -1,0 +1,14 @@
+name: steve-jobs
+version: 1.0.0
+type: minds
+description: "Mente cognitiva de Steve Jobs — avaliacao de produto, design por subtracao, e lideranca visionaria"
+price: 49.9
+license: MIT
+entry: SKILL.md
+tags:
+  - product-design
+  - simplicity
+  - leadership
+  - innovation
+  - apple
+  - cognitive-mind
